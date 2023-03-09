@@ -11,7 +11,7 @@ outline: deep
 
 </Badges>
 
-`@feathersjs/schema` provides a way to define data models and to dynamically resolve them. It comes in in the following main parts:
+`@feathersjs/schema` provides a way to define data models and to dynamically resolve them. It comes in the following main parts:
 
 - [JSON schema](https://json-schema.org/) using [TypeBox](./typebox.md) or [plain JSON schema](./schema.md) to define a data model with TypeScript types and validations. This allows us to:
   - Automatically get TypeScript types from schema definitions
